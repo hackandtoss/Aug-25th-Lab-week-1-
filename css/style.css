@@ -1,0 +1,52 @@
+nav {
+  margin: auto;
+  text-align: center;
+  background-color:  rgb(56, 56, 163);
+  color: whitesmoke; 
+  height: 30px;
+  font-weight: bold;
+  
+}
+
+table, tr, td {
+  border: 1px solid gray;
+}
+
+a, a:visited {
+  color: whitesmoke;
+  text-decoration: none; 
+}
+.pfp {
+  width: 165px;
+  height: 100px;
+  border-radius: 20px;
+}
+
+.links:hover {
+  font-weight: bolder;
+  color: white;
+}
+
+#profilePictures{
+  display: flex;
+}
+
+h1 {
+  text-align: center;
+}
+
+#Buxton_quote {
+  font-style: italic;
+}
+
+#disclaimer {
+  font-style: bold;
+}
+
+#CSUMB_Logo {
+  width: 250px;
+}
+#form_link{
+  font-style: bold;
+  color: rgb(56, 56, 163);
+}
